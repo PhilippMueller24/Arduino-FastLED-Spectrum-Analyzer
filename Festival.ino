@@ -1,5 +1,3 @@
-// This code was mainly programmed by Daniel Perez, E-Mail: generatorlabs@gmail.com and adapted to Sparkfuns Spectrum Shield using the MSGEQ7 band-slicing IC's 
-
 
 #include <FastLED.h>            // You must include FastLED version 3.002.006. This library allows communication with each LED
 #define DATA_PIN 22             // Pin for serial communication with LED string.
